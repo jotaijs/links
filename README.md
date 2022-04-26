@@ -1,4 +1,4 @@
-# jotai-lab links
+# jotai-labs links
 
 ## Official jotai library
 
