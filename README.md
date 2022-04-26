@@ -19,5 +19,5 @@ In alphabetical order:
 
 ## Contributing
 
-If you want to add a third-party library in the list, please open a PR.
+If you want to add a third-party library to the list, please open a PR.
 If you have other suggestions, free feel to open an issue.
