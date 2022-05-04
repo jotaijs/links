@@ -13,6 +13,7 @@ In alphabetical order:
 - [jotai-apollo](https://github.com/Aslemammad/jotai-apollo)
 - [jotai-form](https://github.com/jotai-labs/jotai-form)
 - [jotai-game](https://github.com/jotai-labs/jotai-game)
+- [jotai-jsx](https://github.com/jotai-labs/jotai-jsx)
 - [jotai-molecules](https://github.com/saasquatch/jotai-molecules)
 - [jotai-query-toolkit](https://github.com/fungible-systems/jotai-query-toolkit)
 - [jotai-suspense](https://github.com/jotai-labs/jotai-suspense)
