@@ -15,6 +15,7 @@ In alphabetical order:
 - [jotai-game](https://github.com/jotai-labs/jotai-game)
 - [jotai-jsx](https://github.com/jotai-labs/jotai-jsx)
 - [jotai-molecules](https://github.com/saasquatch/jotai-molecules)
+- [jotai-relay](https://github.com/jotai-labs/jotai-relay)
 - [jotai-query-toolkit](https://github.com/fungible-systems/jotai-query-toolkit)
 - [jotai-suspense](https://github.com/jotai-labs/jotai-suspense)
 
