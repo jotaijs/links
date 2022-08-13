@@ -14,6 +14,7 @@ In alphabetical order:
 - [jotai-form](https://github.com/jotai-labs/jotai-form)
 - [jotai-game](https://github.com/jotai-labs/jotai-game)
 - [jotai-jsx](https://github.com/jotai-labs/jotai-jsx)
+- [jotai-location](https://github.com/jotai-labs/jotai-location)
 - [jotai-molecules](https://github.com/saasquatch/jotai-molecules)
 - [jotai-relay](https://github.com/jotai-labs/jotai-relay)
 - [jotai-query-toolkit](https://github.com/fungible-systems/jotai-query-toolkit)
