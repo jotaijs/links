@@ -18,6 +18,7 @@ In alphabetical order:
 - [jotai-molecules](https://github.com/saasquatch/jotai-molecules)
 - [jotai-relay](https://github.com/jotai-labs/jotai-relay)
 - [jotai-query-toolkit](https://github.com/fungible-systems/jotai-query-toolkit)
+- [jotai-signal](https://github.com/jotai-labs/jotai-signal)
 - [jotai-suspense](https://github.com/jotai-labs/jotai-suspense)
 
 ## Contributing
