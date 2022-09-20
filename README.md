@@ -20,6 +20,7 @@ In alphabetical order:
 - [jotai-query-toolkit](https://github.com/fungible-systems/jotai-query-toolkit)
 - [jotai-signal](https://github.com/jotai-labs/jotai-signal)
 - [jotai-suspense](https://github.com/jotai-labs/jotai-suspense)
+- [jotai-tanstack-query](https://github.com/jotai-labs/jotai-tanstack-query)
 - [jotai-uncontrolled](https://github.com/jotai-labs/jotai-uncontrolled)
 
 ## Contributing
