@@ -10,7 +10,7 @@
 In alphabetical order:
 
 - [form-atoms](https://github.com/jaredLunde/form-atoms)
-- [jotai-apollo](https://github.com/Aslemammad/jotai-apollo)
+- [jotai-apollo](https://github.com/jotai-labs/jotai-apollo)
 - [jotai-form](https://github.com/jotai-labs/jotai-form)
 - [jotai-game](https://github.com/jotai-labs/jotai-game)
 - [jotai-jsx](https://github.com/jotai-labs/jotai-jsx)
