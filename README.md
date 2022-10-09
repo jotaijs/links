@@ -22,6 +22,7 @@ In alphabetical order:
 - [jotai-suspense](https://github.com/jotai-labs/jotai-suspense)
 - [jotai-tanstack-query](https://github.com/jotai-labs/jotai-tanstack-query)
 - [jotai-uncontrolled](https://github.com/jotai-labs/jotai-uncontrolled)
+- [jotai-urql](https://github.com/jotai-labs/jotai-urql)
 
 ## Contributing
 
