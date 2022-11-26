@@ -13,6 +13,7 @@ In alphabetical order:
 - [jotai-apollo](https://github.com/jotai-labs/jotai-apollo)
 - [jotai-form](https://github.com/jotai-labs/jotai-form)
 - [jotai-game](https://github.com/jotai-labs/jotai-game)
+- [jotai-hook-form](https://github.com/saasquatch/jotai-hook-form)
 - [jotai-jsx](https://github.com/jotai-labs/jotai-jsx)
 - [jotai-location](https://github.com/jotai-labs/jotai-location)
 - [jotai-molecules](https://github.com/saasquatch/jotai-molecules)
