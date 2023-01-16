@@ -5,6 +5,10 @@
 - https://github.com/pmndrs/jotai
 - https://jotai.org
 
+## Multilingual Documentation
+
+- [简体中文](https://github.com/lecepin/jotai-docs-cn)
+
 ## Third-party libraries
 
 In alphabetical order:
@@ -32,10 +36,6 @@ In alphabetical order:
 - [jotai-valtio](https://github.com/jotai-labs/jotai-valtio)
 - [jotai-zustand](https://github.com/jotai-labs/jotai-zusatnd)
 - [jotai-xstate](https://github.com/jotai-labs/jotai-xstate)
-
-## Multilingual Documentation
-
-- [简体中文](https://github.com/lecepin/jotai-docs-cn)
 
 ## Contributing
 
