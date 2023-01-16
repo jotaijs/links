@@ -33,6 +33,9 @@ In alphabetical order:
 - [jotai-zustand](https://github.com/jotai-labs/jotai-zusatnd)
 - [jotai-xstate](https://github.com/jotai-labs/jotai-xstate)
 
+## Multilingual Documentation
+
+- [简体中文](https://github.com/lecepin/jotai-docs-cn)
 
 ## Contributing
 
