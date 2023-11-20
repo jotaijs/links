@@ -30,13 +30,13 @@
 
 In alphabetical order:
 
+- [bunshi](https://github.com/saasquatch/bunshi)
 - [form-atoms](https://github.com/jaredLunde/form-atoms)
 - [jotai-apollo](https://github.com/jotaijs/jotai-apollo)
 - [jotai-form](https://github.com/jotaijs/jotai-form)
 - [jotai-game](https://github.com/jotaijs/jotai-game)
 - [jotai-hook-form](https://github.com/saasquatch/jotai-hook-form)
 - [jotai-jsx](https://github.com/jotaijs/jotai-jsx)
-- [jotai-molecules](https://github.com/saasquatch/jotai-molecules)
 - [jotai-query-toolkit](https://github.com/fungible-systems/jotai-query-toolkit)
 - [jotai-signal](https://github.com/jotaijs/jotai-signal)
 - [jotai-suspense](https://github.com/jotaijs/jotai-suspense)
