@@ -8,6 +8,7 @@
 ## Multilingual Documentation
 
 - [简体中文](https://github.com/lecepin/jotai-docs-cn)
+- [简体中文 v2](https://github.com/ouweiya/jotai-zh/tree/translation/zh)
 
 ## Semi-official libraries
 
