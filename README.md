@@ -39,10 +39,10 @@ In alphabetical order:
 - [jotai-hook-form](https://github.com/saasquatch/jotai-hook-form)
 - [jotai-jsx](https://github.com/jotaijs/jotai-jsx)
 - [jotai-query-toolkit](https://github.com/fungible-systems/jotai-query-toolkit)
+- [jotai-scheduler](https://github.com/jotaijs/jotai-scheduler)
 - [jotai-signal](https://github.com/jotaijs/jotai-signal)
 - [jotai-suspense](https://github.com/jotaijs/jotai-suspense)
 - [jotai-uncontrolled](https://github.com/jotaijs/jotai-uncontrolled)
-- [jotai-scheduler](https://github.com/jotaijs/jotai-scheduler)
 
 ## Contributing
 
