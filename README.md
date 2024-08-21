@@ -42,6 +42,7 @@ In alphabetical order:
 - [jotai-signal](https://github.com/jotaijs/jotai-signal)
 - [jotai-suspense](https://github.com/jotaijs/jotai-suspense)
 - [jotai-uncontrolled](https://github.com/jotaijs/jotai-uncontrolled)
+- [jotai-scheduler](https://github.com/jotaijs/jotai-scheduler)
 
 ## Contributing
 
