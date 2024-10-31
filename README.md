@@ -34,6 +34,7 @@ In alphabetical order:
 - [bunshi](https://github.com/saasquatch/bunshi)
 - [form-atoms](https://github.com/jaredLunde/form-atoms)
 - [jotai-apollo](https://github.com/jotaijs/jotai-apollo)
+- [jotai-components](https://github.com/boar-is/jotai-components)
 - [jotai-form](https://github.com/jotaijs/jotai-form)
 - [jotai-game](https://github.com/jotaijs/jotai-game)
 - [jotai-hook-form](https://github.com/saasquatch/jotai-hook-form)
