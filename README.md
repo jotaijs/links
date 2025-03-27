@@ -25,7 +25,7 @@
 - [jotai-redux](https://github.com/jotaijs/jotai-redux)
 - [jotai-relay](https://github.com/jotaijs/jotai-relay)
 - [jotai-valtio](https://github.com/jotaijs/jotai-valtio)
-- [jotai-zustand](https://github.com/jotaijs/jotai-zusatnd)
+- [jotai-zustand](https://github.com/jotaijs/jotai-zustand)
 
 ## Third-party libraries
 
